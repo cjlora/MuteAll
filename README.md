@@ -1,13 +1,10 @@
 <div align="center">
 
-  <img src="logo.png" alt="logo" width="200" height="auto" />
-
   <h1>MuteAll</h1>
 
   <a href="https://top.gg/bot/757369495953342593">
     <img src="https://top.gg/api/widget/owner/757369495953342593.svg">
   </a>
-  
   
   <p>This bot was made for groups of friends who play among us together and use discord to communicate. Sometimes people can't or forget to mute themselves and accidentally talk during the game. With this bot, you can mute everyone with a simple command at the start of each game!</p>
 
